@@ -20,5 +20,4 @@
 
 <div>
  <a href="https://www.linkedin.com/in/maria-laura-cardoso-bastos-05bb0220a/" target="_blank"><img align="center" alt="Maria.linkedin" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
- <a href=" href="mlcb.maria@gmail.com" target="_blank"><img align="center" alt="Maria.gmail" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
