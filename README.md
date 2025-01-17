@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello World! Eu sou a Maria Laura 😊
 
-<!--
-**marialaurabastos/marialaurabastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialaurabastos&layout=compact&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Maria.HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Maria.HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Maria.HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+   <img align="center" alt="Maria.python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+          
+  <img align="right" alt="Maria-GIF" height="200" src="https://github.com/user-attachments/assets/427ba208-1270-4eb1-9c52-fc2bc06b2610"/>
+</div>
+
+##
+
+<div>
+ <img align="center" alt="Maria.linkedin" width="100" href="https://www.linkedin.com/in/maria-laura-cardoso-bastos-05bb0220a/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+<img align="center" alt="Maria.gmail" width="100" href="mlcb.maria@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+</div>
