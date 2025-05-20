@@ -12,8 +12,6 @@
   <img align="center" alt="Maria.HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="Maria.HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
    <img align="center" alt="Maria.python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-          
-  <img align="right" alt="Maria-GIF" height="100" src="https://github.com/user-attachments/assets/427ba208-1270-4eb1-9c52-fc2bc06b2610"/>
 </div>
 
 ##
