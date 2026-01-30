@@ -82,7 +82,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula&locale=pt-br" 
-  />
+/>
 
 <img 
       align="left" 
