@@ -75,22 +75,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <br>
 
 ### Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula&locale=pt-br" 
-/>
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialaurabastos&theme=dracula&layout=donut&custom_title=Tecnologias" 
-  />
-
-</p>
 
           
