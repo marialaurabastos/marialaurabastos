@@ -18,9 +18,9 @@ Me chamo Maria Laura Cardoso Bastos, tenho 25 anos e sou natural de Minas Gerais
 
 ## Linguagens e tecnologias
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marialaurabastos&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marialaurabastos&layout=compact&theme=dracula)
 
 <img 
 align="left"
