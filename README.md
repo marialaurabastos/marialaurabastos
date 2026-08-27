@@ -2,7 +2,7 @@
 
 **`Graduanda em Sistemas de Informação`**
 
-Me chamo Maria Laura Cardoso Bastos, tenho 25 anos e sou natural de Minas Gerais. Atualmente estou cursando Sistemas de Informação na PUC Minas e estagiando como Dev Fullstack. Sou apaixonada por tecnologia e estou sempre buscando mais conhecimento na área.
+Me chamo Maria Laura Cardoso Bastos, tenho 25 anos e sou natural de Minas Gerais. Atualmente estou cursando Sistemas de Informação na PUC Minas e Tecnologia em Inteligência Artificial na UFLA.
 
 <p align="left">
     <a 
@@ -19,8 +19,8 @@ Me chamo Maria Laura Cardoso Bastos, tenho 25 anos e sou natural de Minas Gerais
 ## Linguagens e tecnologias
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marialaurabastos&layout=compact&theme=dracula" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=marialaurabastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marialaurabastos&layout=compact&theme=dracula" />
 </div>
 
 <div>
