@@ -23,7 +23,18 @@ Me chamo Maria Laura Cardoso Bastos, tenho 25 anos e sou natural de Minas Gerais
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marialaurabastos&layout=compact&theme=dracula" />
 </div>
 
+
+
 <div>
+<img 
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
 <img 
 align="left"
 alt="HTML"
@@ -50,16 +61,6 @@ width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
-
-
-<img
-align="left"
-alt="Typescript"
-title="Typescript"
-width="30px"
-style="padding-right: 10px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" 
-/>
           
 <img 
 align="left"
@@ -68,24 +69,6 @@ title="React"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-     
-<img 
-align="left"
-alt="Python"
-title="Python"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-align="left"
-alt="Nestjs"
-title="Nestjs"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
 />
 
 <img 
